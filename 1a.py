@@ -1,0 +1,6 @@
+print("===== MY PROFILE =====")
+print("Name    : Mrunal")
+print("Age     : 22")
+print("Course  : MSc Computer Science")
+print("City    : Mumbai")
+print("======================")
