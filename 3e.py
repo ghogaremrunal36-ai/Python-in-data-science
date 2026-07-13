@@ -1,0 +1,6 @@
+import calendar
+
+
+year = 2026
+
+print(calendar.calendar(year))
